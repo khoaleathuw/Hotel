@@ -1,0 +1,23 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DTO\obj\Debug\DTO.pdb
+D:\HotelManager\DTO\bin\Debug\DTO.dll
+D:\HotelManager\DTO\bin\Debug\DTO.pdb
+D:\HotelManager\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HotelManager\DTO\obj\Debug\DTO.dll
+D:\HotelManager\DTO\obj\Debug\DTO.pdb
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\bin\Debug\DTO.dll
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\bin\Debug\DTO.pdb
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\obj\Debug\DTO.dll
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DTO\obj\Debug\DTO.pdb
+D:\Khách sạn\SiSiuu\DTO\bin\Debug\DTO.dll
+D:\Khách sạn\SiSiuu\DTO\bin\Debug\DTO.pdb
+D:\Khách sạn\SiSiuu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Khách sạn\SiSiuu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Khách sạn\SiSiuu\DTO\obj\Debug\DTO.dll
+D:\Khách sạn\SiSiuu\DTO\obj\Debug\DTO.pdb

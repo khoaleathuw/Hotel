@@ -1,0 +1,36 @@
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DAO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\bin\Debug\DTO.pdb
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.dll
+F:\DAIHOC\TAILIEU_CHUYENNGANH\Nam3\LapTrinhUngDung\codeMauQLKS\hotel-management-v2\Source code\C# script\HotelManager\DAO\obj\Debug\DAO.pdb
+D:\HotelManager\DAO\bin\Debug\DAO.dll
+D:\HotelManager\DAO\bin\Debug\DAO.pdb
+D:\HotelManager\DAO\bin\Debug\DTO.dll
+D:\HotelManager\DAO\bin\Debug\DTO.pdb
+D:\HotelManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HotelManager\DAO\obj\Debug\DAO.dll
+D:\HotelManager\DAO\obj\Debug\DAO.pdb
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\bin\Debug\DAO.dll
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\bin\Debug\DAO.pdb
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\bin\Debug\DTO.dll
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\bin\Debug\DTO.pdb
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\obj\Debug\DAO.dll
+C:\Users\khoal\Documents\Zalo Received Files\HotelManager (2)\HotelManager\DAO\obj\Debug\DAO.pdb
+D:\Khách sạn\SiSiuu\DAO\bin\Debug\DAO.dll
+D:\Khách sạn\SiSiuu\DAO\bin\Debug\DAO.pdb
+D:\Khách sạn\SiSiuu\DAO\bin\Debug\DTO.dll
+D:\Khách sạn\SiSiuu\DAO\bin\Debug\DTO.pdb
+D:\Khách sạn\SiSiuu\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Khách sạn\SiSiuu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Khách sạn\SiSiuu\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Khách sạn\SiSiuu\DAO\obj\Debug\DAO.dll
+D:\Khách sạn\SiSiuu\DAO\obj\Debug\DAO.pdb
